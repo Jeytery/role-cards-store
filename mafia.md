@@ -48,6 +48,6 @@
   ],
   "appearance": {
     "iconName": "circle.hexagonpath.fill",
-    "backCardName": "leather_texture_skin"
+    "backCardName": "but_biness_is_bussiness"
   }
 }
