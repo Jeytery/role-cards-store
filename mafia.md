@@ -96,6 +96,6 @@
     ],
     "appearance": {
         "iconName": "",
-        "backCardName": "leather_texture_skin"
+        "skinName": "leather_texture_skin"
     }
 }
