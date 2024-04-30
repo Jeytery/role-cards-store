@@ -8,32 +8,27 @@
         {
             "id": "8C3A275E-B2E2-402A-84ED-1765B2F4A6D1",
             "name": "Mafia",
-            "description": "Mafia kills one player at night. Tries to kill all red players",
-            "imageName": ""
+            "description": "Mafia kills one player at night. Tries to kill all red players"
         },
         {
             "id": "84F1A9BC-837C-4E77-AD59-4656D293D191",
             "name": "Sheriff",
-            "description": "A role who investigates the identity of other players to find the Mafia members.",
-            "imageName": ""
+            "description": "A role who investigates the identity of other players to find the Mafia members."
         },
         {
             "id": "3814D6B3-82A2-46DF-9D6E-6C0D6CA59471",
             "name": "Doctor",
-            "description": "A role who can heal other players to protect them from being eliminated by the Mafia.",
-            "imageName": ""
+            "description": "A role who can heal other players to protect them from being eliminated by the Mafia."
         },
         {
             "id": "3814D6B3-82A2-46DF-9D6E-6C0D6CA59472",
             "name": "Civilian",
-            "description": "Tries to remove all black players from game",
-            "imageName": ""
+            "description": "Tries to remove all black players from game"
         },
         {
             "id": "3814D6B3-82A2-46DF-9D6E-6C0D6CA59473",
             "name": "Don",
-            "description": "Can check one player at night if he is a Sheriff",
-            "imageName": ""
+            "description": "Can check one player at night if he is a Sheriff"
         }
     ],
     "patterns": [
@@ -46,8 +41,7 @@
                     "role": {
                         "id": "8C3A275E-B2E2-402A-84ED-1765B2F4A6D1",
                         "name": "Mafia",
-                        "description": "Mafia kills one player at night. Tries to kill all red players",
-                        "imageName": ""
+                        "description": "Mafia kills one player at night. Tries to kill all red players"
                     },
                     "count": 2
                 },
@@ -56,8 +50,7 @@
                     "role": {
                         "id": "84F1A9BC-837C-4E77-AD59-4656D293D191",
                         "name": "Sheriff",
-                        "description": "A role who investigates the identity of other players to find the Mafia members.",
-                        "imageName": ""
+                        "description": "A role who investigates the identity of other players to find the Mafia members."
                     },
                     "count": 1
                 },
@@ -66,8 +59,7 @@
                     "role": {
                         "id": "3814D6B3-82A2-46DF-9D6E-6C0D6CA59472",
                         "name": "Doctor",
-                        "description": "A role who can heal other players to protect them from being eliminated by the Mafia.",
-                        "imageName": ""
+                        "description": "A role who can heal other players to protect them from being eliminated by the Mafia."
                     },
                     "count": 0
                 },
@@ -76,8 +68,7 @@
                     "role": {
                         "id": "3814D6B3-82A2-46DF-9D6E-6C0D6CA59471",
                         "name": "Civilian",
-                        "description": "Tries to remove all black players from game",
-                        "imageName": ""
+                        "description": "Tries to remove all black players from game"
                     },
                     "count": 6
                 },
@@ -86,8 +77,7 @@
                     "role": {
                         "id": "3814D6B3-82A2-46DF-9D6E-6C0D6CA59473",
                         "name": "Don",
-                        "description": "Can check one player at night if he is a Sheriff",
-                        "imageName": ""
+                        "description": "Can check one player at night if he is a Sheriff"
                     },
                     "count": 1
                 }
