@@ -2,7 +2,7 @@
     "id": "F28D9CAB-4B86-4A6F-A9A5-2A3445C74FD8",
     "information": {
         "name": "Mafia",
-        "description": "A deck containing roles for playing the Mafia party game",
+        "description": "A deck containing roles for playing the Mafia party game"
     },
     "roles": [
         {
