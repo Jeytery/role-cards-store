@@ -13,6 +13,10 @@
                 {
                     "language": "ru",
                     "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/mafia/mafia-ru.md" 
+                },
+                {
+                    "language": "es",
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/mafia/mafia-es.md" 
                 }
             ]
         }
