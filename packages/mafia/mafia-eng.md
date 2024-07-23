@@ -2,7 +2,7 @@
     "packageId": "MAFIA_PACKAGE",
     "information": {
         "name": "Mafia",
-        "description": "A deck containing roles for playing the Mafia party game",
+        "description": "A deck containing roles for playing the Mafia party game"
     },
     "appearance": {
         "iconName": "",
