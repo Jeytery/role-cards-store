@@ -7,7 +7,7 @@
             "icon": nil,
             "content": [
                 {
-                    "language": "eng"
+                    "language": "eng",
                     "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/mafia/mafia-eng.md" 
                 }
             ]
