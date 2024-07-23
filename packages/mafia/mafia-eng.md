@@ -6,9 +6,9 @@
     },
     "appearance": {
         "iconName": "",
-        "backCardName": "leather_texture_skin"
+        "skinName": "leather_texture_skin"
     },
-    "roles": [
+    "cards": [
         {
             "name": "Mafia",
             "description": "Mafia kills one player at night. Tries to kill all red players"
@@ -30,7 +30,7 @@
             "description": "Can check one player at night if he is a Sheriff"
         }
     ],
-    "patterns": [
+    "decks": [
         {
             "name": "Classical Mafia",
             "content": [
