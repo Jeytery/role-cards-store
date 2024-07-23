@@ -2,9 +2,9 @@
     "data": [
         {
             "name": "Mafia",
-            "description": nil,
+            "description": null,
             "skin": "leather_texture_skin",
-            "icon": nil,
+            "icon": null,
             "content": [
                 {
                     "language": "eng",
