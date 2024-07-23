@@ -28,7 +28,7 @@
             "content": [
                 {
                     "language": "eng",
-                    "link": "https://github.com/Jeytery/role-cards-store/tree/main/packages/active-or-passive" 
+                    "link": "https://github.com/Jeytery/role-cards-store/tree/main/packages/active-or-passive.md" 
                 }
             ]
         }
