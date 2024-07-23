@@ -6,7 +6,7 @@
     },
     "appearance": {
         "iconName": "",
-        "skinName": "leather_texture_skin"
+        "skinName": "bang_skin"
     },
     "cards": [
         {
