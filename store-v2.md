@@ -2,18 +2,14 @@
     "data": [
         {
             "name": "Mafia",
-            "description": "some desc",
-            "skin": "",
-            "icon": "",
+            "description": nil,
+            "skin": "leather_texture_skin",
+            "icon": nil,
             "content": [
-                {
-                    "language": "ru"
-                    "link": "link" 
-                },
                 {
                     "language": "eng"
                     "link": "link" 
-                },
+                }
             ]
         }
     ]
