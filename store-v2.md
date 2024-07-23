@@ -8,7 +8,7 @@
             "content": [
                 {
                     "language": "eng"
-                    "link": "link" 
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/mafia/mafia-eng.md" 
                 }
             ]
         }
