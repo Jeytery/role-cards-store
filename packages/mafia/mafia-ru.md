@@ -44,15 +44,15 @@
         },
         {
           "roleName": "Мирный житель",
-          "count": 0
-        },
-        {
-          "roleName": "Шериф",
           "count": 6
         },
         {
-          "roleName": "Доктор",
+          "roleName": "Шериф",
           "count": 1
+        },
+        {
+          "roleName": "Доктор",
+          "count": 0
         }
       ]
     }
