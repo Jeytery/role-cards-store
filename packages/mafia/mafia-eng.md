@@ -22,7 +22,7 @@
             "description": "A role who can heal other players to protect them from being eliminated by the Mafia."
         },
         {
-            "name": "Civilian",
+            "name": "Civillian",
             "description": "Tries to remove all black players from game"
         },
         {
