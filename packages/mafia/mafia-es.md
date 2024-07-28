@@ -44,15 +44,15 @@
         },
         {
           "roleName": "Civil",
-          "count": 0
-        },
-        {
-          "roleName": "Sheriff",
           "count": 6
         },
         {
-          "roleName": "Doctor",
+          "roleName": "Sheriff",
           "count": 1
+        },
+        {
+          "roleName": "Doctor",
+          "count": 0
         }
       ]
     }
