@@ -44,11 +44,11 @@
                 },
                 {
                     "roleName": "Civillian",
-                    "count": 0
+                    "count": 6
                 },
                 {
                     "roleName": "Sheriff",
-                    "count": 6
+                    "count": 1
                 },
                 {
                     "roleName": "Doctor",
