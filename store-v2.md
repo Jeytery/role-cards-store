@@ -5,7 +5,7 @@
             "description": null,
             "skin": "leather_texture_skin",
             "icon": null,
-            "available_app_version": "from_5.1",
+            "availableAppVersion": "from_5.1",
             "content": [
                 {
                     "language": "eng",
@@ -26,7 +26,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
-            "available_app_version": "from_5.1",
+            "availableAppVersion": "from_5.1",
             "content": [
                 {
                     "language": "eng",
@@ -52,7 +52,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
-            "available_app_version": "from_4.0",
+            "availableAppVersion": "from_4.0",
             "content": [
                 {
                     "language": "eng",
@@ -65,7 +65,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
-            "available_app_version": "to_4.0",
+            "availableAppVersion": "to_4.0",
             "content": [
                 {
                     "language": "eng",
@@ -91,7 +91,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
-            "available_app_version": "only_5.1",
+            "availableAppVersion": "only_5.1",
             "content": [
                 {
                     "language": "eng",
