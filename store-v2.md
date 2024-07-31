@@ -39,7 +39,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
-            "available_app_version": "to_5.0",
+            "availableAppVersion": "to_5.0",
             "content": [
                 {
                     "language": "eng",
@@ -78,7 +78,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
-            "available_app_version": "only_4.0",
+            "availableAppVersion": "only_4.0",
             "content": [
                 {
                     "language": "eng",
