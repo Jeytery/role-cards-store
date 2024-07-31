@@ -1,5 +1,6 @@
 {
   "packageId": "MAFIA_PACKAGE",
+  "available_app_version": "from_5.1",
   "information": {
     "name": "Mafia",
     "description": "Una baraja que contiene roles para jugar al juego de fiesta Mafia"
