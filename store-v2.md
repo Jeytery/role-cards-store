@@ -5,6 +5,7 @@
             "description": null,
             "skin": "leather_texture_skin",
             "icon": null,
+            "available_app_version": "from_5.1",
             "content": [
                 {
                     "language": "eng",
@@ -25,6 +26,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
+            "available_app_version": "from_5.1",
             "content": [
                 {
                     "language": "eng",
