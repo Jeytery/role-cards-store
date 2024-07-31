@@ -5,7 +5,7 @@
             "description": null,
             "skin": "leather_texture_skin",
             "icon": null,
-            "availableAppVersions": ["from_5.1", "to_6.0", "only_6.3"],
+            "availableAppVersions": ["from_5.2"],
             "content": [
                 {
                     "language": "eng",
