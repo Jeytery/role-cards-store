@@ -1,5 +1,6 @@
 {
     "packageId": "MAFIA_PACKAGE",
+    "available_app_version": "from_5.1",
     "information": {
         "name": "Mafia",
         "description": "A deck containing roles for playing the Mafia party game"
