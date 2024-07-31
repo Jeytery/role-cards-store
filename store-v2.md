@@ -98,6 +98,45 @@
                     "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
                 }
             ]
+        },
+         {
+            "name": "from_6.0",
+            "description": null,
+            "skin": "bang_skin",
+            "icon": null,
+            "availableAppVersion": "from_6.0",
+            "content": [
+                {
+                    "language": "eng",
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
+                }
+            ]
+        },
+         {
+            "name": "from_any",
+            "description": null,
+            "skin": "bang_skin",
+            "icon": null,
+            "availableAppVersion": "from_any",
+            "content": [
+                {
+                    "language": "eng",
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
+                }
+            ]
+        },
+        {
+            "name": "to_6.0",
+            "description": null,
+            "skin": "bang_skin",
+            "icon": null,
+            "availableAppVersion": "to_6.0",
+            "content": [
+                {
+                    "language": "eng",
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
+                }
+            ]
         }   
     ]
 }
