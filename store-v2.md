@@ -98,7 +98,6 @@
                     "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
                 }
             ]
-        }
-        
+        }   
     ]
 }
