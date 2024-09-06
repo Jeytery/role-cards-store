@@ -37,7 +37,7 @@
         {
             "name": "English words for GYM",
             "description": null,
-            "skin": "bang_skin",
+            "skin": null,
             "icon": null,
             "availableAppVersions": ["from_5.2"],
             "content": [
