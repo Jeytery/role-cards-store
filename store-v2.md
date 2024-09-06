@@ -42,8 +42,8 @@
             "availableAppVersions": ["from_5.2"],
             "content": [
                 {
-                    "language": "eng",
-                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
+                    "language": "ru",
+                    "link": ""https://github.com/Jeytery/role-cards-store/blob/main/packages/english-gym-words/english-gym-words.md" " 
                 }
             ]
         }
