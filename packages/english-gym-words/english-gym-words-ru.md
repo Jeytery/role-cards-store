@@ -321,6 +321,242 @@
                 {
                     "roleName": "To max out",
                     "count": 1
+                },
+                {
+                    "roleName": "To burn off",
+                    "count": 1
+                },
+                {
+                    "roleName": "To warm up",
+                    "count": 1
+                },
+                {
+                    "roleName": "To cool down",
+                    "count": 1
+                },
+                {
+                    "roleName": "Training to failure",
+                    "count": 1
+                },
+                {
+                    "roleName": "Strength training",
+                    "count": 1
+                },
+                {
+                    "roleName": "Rep (repetition)",
+                    "count": 1
+                },
+                {
+                    "roleName": "Set",
+                    "count": 1
+                },
+                {
+                    "roleName": "Flexibility",
+                    "count": 1
+                },
+                {
+                    "roleName": "Stamina",
+                    "count": 1
+                },
+                {
+                    "roleName": "Dexterity",
+                    "count": 1
+                },
+                {
+                    "roleName": "Spotter",
+                    "count": 1
+                },
+                {
+                    "roleName": "To spot",
+                    "count": 1
+                },
+                {
+                    "roleName": "Gym",
+                    "count": 1
+                },
+                {
+                    "roleName": "Machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "Form",
+                    "count": 1
+                },
+                {
+                    "roleName": "Dumbbells",
+                    "count": 1
+                },
+                {
+                    "roleName": "Kettlebells",
+                    "count": 1
+                },
+                {
+                    "roleName": "Barbell",
+                    "count": 1
+                },
+                {
+                    "roleName": "Plates",
+                    "count": 1
+                },
+                {
+                    "roleName": "Treadmill",
+                    "count": 1
+                },
+                {
+                    "roleName": "Bench",
+                    "count": 1
+                },
+                {
+                    "roleName": "Resistance band",
+                    "count": 1
+                },
+                {
+                    "roleName": "Pull-up bar",
+                    "count": 1
+                },
+                {
+                    "roleName": "Battle ropes",
+                    "count": 1
+                },
+                {
+                    "roleName": "Ab machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "Spin bike",
+                    "count": 1
+                },
+                {
+                    "roleName": "Rowing machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "Elliptical trainer",
+                    "count": 1
+                },
+                {
+                    "roleName": "Stair climber",
+                    "count": 1
+                },
+                {
+                    "roleName": "Leg press machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "Chest press machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "Lat pulldown machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "Shoulder press machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "Leg extension machine",
+                    "count": 1
+                },
+                {
+                    "roleName": "To pull up",
+                    "count": 1
+                },
+                {
+                    "roleName": "To push up",
+                    "count": 1
+                },
+                {
+                    "roleName": "To squat",
+                    "count": 1
+                },
+                {
+                    "roleName": "To squat with a barbell",
+                    "count": 1
+                },
+                {
+                    "roleName": "To leg press",
+                    "count": 1
+                },
+                {
+                    "roleName": "To do lat pulldowns",
+                    "count": 1
+                },
+                {
+                    "roleName": "To do dumbbell curls",
+                    "count": 1
+                },
+                {
+                    "roleName": "To do dumbbell presses",
+                    "count": 1
+                },
+                {
+                    "roleName": "To do leg raises",
+                    "count": 1
+                },
+                {
+                    "roleName": "To do parallel bar dips",
+                    "count": 1
+                },
+                {
+                    "roleName": "To do sit-ups",
+                    "count": 1
+                },
+                {
+                    "roleName": "To stretch",
+                    "count": 1
+                },
+                {
+                    "roleName": "To do ab exercises",
+                    "count": 1
+                },
+                {
+                    "roleName": "Lats",
+                    "count": 1
+                },
+                {
+                    "roleName": "Traps",
+                    "count": 1
+                },
+                {
+                    "roleName": "Pecs",
+                    "count": 1
+                },
+                {
+                    "roleName": "Biceps",
+                    "count": 1
+                },
+                {
+                    "roleName": "Triceps",
+                    "count": 1
+                },
+                {
+                    "roleName": "Quads",
+                    "count": 1
+                },
+                {
+                    "roleName": "Glutes",
+                    "count": 1
+                },
+                {
+                    "roleName": "Abs",
+                    "count": 1
+                },
+                {
+                    "roleName": "Calves",
+                    "count": 1
+                },
+                {
+                    "roleName": "Gainz",
+                    "count": 1
+                },
+                {
+                    "roleName": "Cardio bunny",
+                    "count": 1
+                },
+                {
+                    "roleName": "Gym rat",
+                    "count": 1
                 }
             ]
         }
