@@ -33,6 +33,19 @@
                     "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
                 }
             ]
+        },
+        {
+            "name": "English words for GYM",
+            "description": null,
+            "skin": "bang_skin",
+            "icon": null,
+            "availableAppVersions": ["from_5.2"],
+            "content": [
+                {
+                    "language": "eng",
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/active-or-passive/active-or-passive-eng.md" 
+                }
+            ]
         }
     ]
 }
