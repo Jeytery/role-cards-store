@@ -39,7 +39,7 @@
             "description": null,
             "skin": "bang_skin",
             "icon": null,
-            "availableAppVersions": ["from_5.2"],
+            "availableAppVersions": ["from_5.1"],
             "content": [
                 {
                     "language": "ru",
