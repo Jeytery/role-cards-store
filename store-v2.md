@@ -37,8 +37,8 @@
         {
             "name": "English words for GYM",
             "description": null,
-            "skin": null,
-            "icon": null,
+            "skin": "leather_texture_skin",
+            "icon": "figure.strengthtraining.traditional",
             "availableAppVersions": ["from_5.2"],
             "content": [
                 {
