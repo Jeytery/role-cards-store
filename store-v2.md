@@ -43,7 +43,7 @@
             "content": [
                 {
                     "language": "ru",
-                    "link": ""https://github.com/Jeytery/role-cards-store/blob/main/packages/english-gym-words/english-gym-words.md" " 
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/english-gym-words/english-gym-words.md"
                 }
             ]
         }
