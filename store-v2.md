@@ -37,13 +37,13 @@
         {
             "name": "English words for GYM",
             "description": null,
-            "skin": "leather_texture_skin",
-            "icon": "figure.strengthtraining.traditional",
+            "skin": "bang_skin",
+            "icon": null,
             "availableAppVersions": ["from_5.2"],
             "content": [
                 {
                     "language": "ru",
-                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/english-gym-words/english-gym-words.md"
+                    "link": "https://github.com/Jeytery/role-cards-store/blob/main/packages/english-gym-words/english-gym-words-ru.md"
                 }
             ]
         }
